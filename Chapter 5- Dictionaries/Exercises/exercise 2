@@ -1,0 +1,7 @@
+glossary={'operators':'Operators are used to perform operations on variables and values.','string':'String is a collection of alphabets, words or other characters','if loop':'Python if Statement is used for decision-making operations','append':'append() will place new items in the available space','insert':'The insert() method inserts the specified value at the specified position.'}
+
+print('\noperators:',glossary['operators'])
+print('\nstring:',glossary['string'])
+print('\nif loop:',glossary['if loop'])
+print('\nappend:',glossary['append'])
+print('\ninsert:',glossary['insert'])

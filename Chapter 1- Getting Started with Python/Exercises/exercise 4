@@ -1,0 +1,5 @@
+a="hello,"
+b="whats your name,"
+c="how are you."
+d=(a+b+c)
+print(d)

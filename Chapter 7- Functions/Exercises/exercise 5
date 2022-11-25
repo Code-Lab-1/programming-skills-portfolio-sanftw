@@ -1,0 +1,5 @@
+def describe_city(city,country='UAE'):
+    print(city,"is in",country,'.')
+describe_city('Dubai')
+describe_city('Mumbai','India')
+describe_city('Barcelona','Spain')

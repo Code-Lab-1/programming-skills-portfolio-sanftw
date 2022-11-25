@@ -1,0 +1,6 @@
+print("the girl has 50 pounds")
+print("a usb stick is 6 pounds")
+a=50//6
+print("number of usb sticks she can buy is:", a)
+b=50%6
+print("amount of pounds she will have left:", b)

@@ -1,0 +1,7 @@
+a=1
+while a==1:
+    toppings=input("what toppings do you want on your pizza, \ntype 'done' when you wish to stop:")
+    if toppings!='done':
+        print("you added",toppings,"to the pizza")
+    else:
+        break

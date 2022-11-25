@@ -1,0 +1,9 @@
+myname="\t Mohammad Sanad \n"
+print("default:")
+print(myname)
+print("by strip():")
+print(myname.strip())
+print("by lstrip():")
+print(myname.lstrip())
+print("by rstrip():")
+print(myname.rstrip())
