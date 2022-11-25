@@ -1,0 +1,10 @@
+rivers={'Amazon river':'South America','Kaveri river':'India','Missouri river':'America'}
+print('\n','river and their country:-')
+for i,x in rivers.items():
+    print('\n',i,'runs through',x)
+print('\n','rivers:-')
+for y in rivers:
+    print('\n',y)
+print('\n','countries:-')
+for z in rivers:
+    print('\n',rivers[z])

@@ -1,0 +1,12 @@
+a=1
+while a==1:
+    age=input("how old are you,\ntype 'done' to exit loop:")
+    if age=='done':
+        break
+    
+    elif age<3:
+        print("your ticket is free")
+    elif age<12:
+        print("your ticket is 10$")
+    else:
+        print("your ticket is 15$")

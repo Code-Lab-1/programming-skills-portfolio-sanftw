@@ -1,0 +1,4 @@
+msg="hello, my name is Sanad"
+print(msg)
+msg="i am 18 years old"
+print(msg)
