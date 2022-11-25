@@ -1,9 +1,0 @@
-pets_list = []
-pet = {'animal type': 'Lion','name': 'Khalifa','owner': 'Hamood','weight': 100,'eats': 'meat',}
-pets_list.append(pet)
-pet = {'animal type': 'cat','name': 'mia','owner': 'Roxanne','weight': 15,'eats': 'cat food',}
-pets_list.append(pet)
-for pet in pets_list:
-    print("\nthis is what i know about the pet ",pet['name'], "=")
-    for x,i in pet.items():
-        print("\n",x, ": ",i)

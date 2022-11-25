@@ -2,9 +2,12 @@ glossary={'operators':'Operators are used to perform operations on variables and
     'string':'String is a collection of alphabets, words or other characters',
     'if loop':'Python if Statement is used for decision-making operations',
     'append':'append() will place new items in the available space',
-    'insert':'The insert() method inserts the specified value at the specified position.'}
-print('\noperators:',glossary['operators'])
-print('\nstring:',glossary['string'])
-print('\nif loop:',glossary['if loop'])
-print('\nappend:',glossary['append'])
-print('\ninsert:',glossary['insert'])
+    'insert':'The insert() method inserts the specified value at the specified position.',
+    'float':' to represent real numbers with both an integer and fractional component',
+    'variable':' symbolic name that is a reference or pointer to an object.',
+    'list':'a list is created by placing elements inside square brackets [] , separated by commas.',
+    'function':' group of related statements that performs a specific task.',
+    'print':'The print() function prints the specified message to the screen, or other standard output device.',
+    'input':'Python has an input function which lets you ask a user for some text input.'}
+for i,x in glossary.items():
+    print('\n',i,':',x)
