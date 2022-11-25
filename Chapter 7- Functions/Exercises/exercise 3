@@ -1,0 +1,5 @@
+def make_shirt(size,text):
+    print('\nsize of shirt-', size)
+    print("text on it will be","'", text,"'")
+make_shirt('small','hello world')
+make_shirt('medium','hello')
