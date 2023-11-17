@@ -1,0 +1,5 @@
+def  display_message():
+    a="im learning functions"
+    print(a)
+
+display_message()

@@ -1,0 +1,9 @@
+friends=["Kevin","Alan","Alex","Esa"]
+a=friends[0]
+b=friends[1] 
+c=friends[2] 
+d=friends[3]
+print("This is my friend ",a,'.')
+print("This is my friend ",b,'.')
+print("This is my friend ",c,'.')
+print("This is my friend ",d,'.')

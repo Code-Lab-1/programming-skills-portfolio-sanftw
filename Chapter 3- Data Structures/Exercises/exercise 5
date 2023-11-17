@@ -1,0 +1,22 @@
+people=["Kevin", "Mike", "Tom", "Rashid"]
+invite1=people[0]
+invite2=people[1]
+invite3=people[2]
+invite4=people[3]
+print(invite1, "I invite you to dinner.")
+print(invite2, "I invite you to dinner.")
+print(invite3, "I invite you to dinner.")
+print(invite4, "I invite you to dinner.")
+
+print("\nsorry",invite1,"cant make it.")
+del(people[0])
+people.insert(0,"Alan")
+
+invite1=people[0]
+invite2=people[1]
+invite3=people[2]
+invite4=people[3]
+print("\n",invite1,"I invite you to dinner.")
+print(invite2, "I invite you to dinner.")
+print(invite3, "I invite you to dinner.")
+print(invite4, "I invite you to dinner.")

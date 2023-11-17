@@ -1,0 +1,9 @@
+favourite_cars=["Toyota GT86","BMW M5 Competition","Koenigsegg Agera RS","Nissan GTR-34"]
+a=favourite_cars[0]
+b=favourite_cars[1]
+c=favourite_cars[2]
+d=favourite_cars[3]
+print("I would love to own a ",a,'.')
+print("I would love to own a ",b,'.')
+print("I would love to own a ",c,'.')
+print("I would love to own a ",d,'.')
